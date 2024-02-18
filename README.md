@@ -2,12 +2,16 @@
 # Finance Data Analysis of Bank Stocks
 
 Analysed stocks of 
+
+
 *  Bank of America
 * CitiGroup
 * Goldman Sachs
 * JPMorgan Chase
 * Morgan Stanley
 * Wells Fargo
+
+
  throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016.
 
 ## Dataset
