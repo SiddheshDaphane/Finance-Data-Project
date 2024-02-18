@@ -15,7 +15,7 @@ Analysed stocks of
  throughout the [financial crisis](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016.
 
 ## Dataset
-import yfinance as yf
+import **yfinance** as yf
 
 ## Tech Stack
 
